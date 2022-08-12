@@ -1,0 +1,12 @@
+2022-08-11T12:36:48.6731146Z ##[section]Starting: Upload Release Artifact D:\a\r1\a/
+2022-08-11T12:36:48.6932038Z ==============================================================================
+2022-08-11T12:36:48.6932399Z Task         : Publish Release Artifact
+2022-08-11T12:36:48.6938581Z Description  : Let's you create Release Artifacts that will be uploaded to the Release Logs
+2022-08-11T12:36:48.6939657Z Version      : 1.0.0
+2022-08-11T12:36:48.6939941Z Author       : Benjamin Huser
+2022-08-11T12:36:48.6940127Z Help         : 
+2022-08-11T12:36:48.6940363Z ==============================================================================
+2022-08-11T12:36:49.0299367Z D:\a\r1\a\ is a directory - will zip.
+2022-08-11T12:36:49.5381508Z Uploading D:\a\r1\a\.zip to logs...
+2022-08-11T12:36:49.5407441Z Finished uploading - task complete
+2022-08-11T12:36:49.5566681Z ##[section]Finishing: Upload Release Artifact D:\a\r1\a/
